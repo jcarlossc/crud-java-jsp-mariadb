@@ -1,7 +1,7 @@
 <%-- 
     Document   : excluir
     Created on : 27/05/2023, 20:12:14
-    Author     : Ewe
+    Author     : Carlos da Costa
 --%>
 <%@page import="controller.Controller"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
