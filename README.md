@@ -6,7 +6,6 @@ Crud simples com linguagem de programação Java, Jsp (java server page) e Maria
 
 * Linguagem de programação Java
 * Jsp (java server page)
-* Gerenciador de dependências Maven
 * Stack Xampp (Apache e MariaDB)
 * IDE Netbeans
 * Sistema operacional Windows
